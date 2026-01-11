@@ -1,13 +1,13 @@
 # QuickBooks Desktop – Accounting and Finance Software  
 
 <div align="center">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Intuit_QuickBooks_logo.svg/2560px-Intuit_QuickBooks_logo.svg.png" alt="QuickBooks Logo" width="620">  
+<img src="https://fitsmallbusiness.com/wp-content/uploads/2022/08/Logo_QuickBooks_new.png" alt="QuickBooks Logo" width="620">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/quickbooks">  
+<a href="https://tubus-jubus-apps.github.io/.github/quickbooks">  
 <img src="https://img.shields.io/badge/💻_GET_QuickBooks-blue?style=for-the-badge&logo=apple" alt="GET QuickBooks">  
 </a>  
 </div>
